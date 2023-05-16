@@ -1,1 +1,1 @@
-# Praticing DSA Concepts
+# Pratising DSA Concepts
