@@ -1,1 +1,1 @@
-# Pratising DSA Concepts
+#Important DSA Concepts
